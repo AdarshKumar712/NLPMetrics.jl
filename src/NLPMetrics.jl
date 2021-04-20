@@ -1,5 +1,6 @@
-module NLPMetrics
+# NLP Metrics
 
-# Write your package code here.
+include("rouge.jl")
+include("bleu.jl")
 
-end
+

@@ -4,11 +4,16 @@ CurrentModule = NLPMetrics
 
 # NLPMetrics
 
-Documentation for [NLPMetrics](https://github.com/adarshkumar712/NLPMetrics.jl).
+NLPMetrics is a Julia based package to facilitate evaluation of common NLP Tasks like Translation, Generation, Classification and Summarization.
 
-```@index
-```
+# Why NLPMetrics?
 
-```@autodocs
-Modules = [NLPMetrics]
-```
+To be updated soon...
+
+# Installation
+
+To be updated soon...
+
+# Example Use-Case
+
+To be updated soon...

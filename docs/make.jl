@@ -19,6 +19,6 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/adarshkumar712/NLPMetrics.jl",
+    repo="github.com/AdarshKumar712/NLPMetrics.jl",
     devbranch="main",
 )

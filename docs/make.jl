@@ -20,4 +20,5 @@ makedocs(;
 
 deploydocs(;
     repo="github.com/adarshkumar712/NLPMetrics.jl",
+    devbranch="main",
 )

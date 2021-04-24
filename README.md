@@ -15,8 +15,8 @@ WIP (not yet registered)
 Metrics to be implemented as a part of this package:
 - [x] BLEU Score
 - [x] ROUGE
-- [ ] Precision, Recall, F1 Score
-- [ ] Confusion Matrix
+- [x] Precision, Recall, F1 Score
+- [x] Confusion Matrix
 - [ ] Perplexity
 - [ ] METEOR
 - [ ] GLEU

@@ -47,6 +47,10 @@ julia> y = [0, 1]
 julia> perplexity(y_, y)
 1.588604969678355
 
+julia> y = [1]
+1-element Vector{Int64}:
+ 1
+
 julia> perplexity(y_, y; onehot=false, labels=0:1)
 1.588604969678355
 

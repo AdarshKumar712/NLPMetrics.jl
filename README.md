@@ -17,7 +17,7 @@ Metrics to be implemented as a part of this package:
 - [x] ROUGE
 - [x] Precision, Recall, F1 Score
 - [x] Confusion Matrix
-- [ ] Perplexity
+- [x] Perplexity
 - [ ] METEOR
 - [ ] GLEU
 - [ ] WER or Word Error Rate

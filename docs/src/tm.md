@@ -8,3 +8,8 @@ Metric Functions to evaulate models for the task for Machine Translation.
 NLPMetrics.bleu_score
 ```
 
+## Perplexity
+
+```@docs
+NLPMetrics.perplexity
+```
